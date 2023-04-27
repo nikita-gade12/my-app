@@ -16,7 +16,7 @@ export const Mytodo = (props) => {
             <h5 className="No Mytodo"></h5>
             <p className="card-text"></p>
             <a href="#" className="btn btn-primary">
-              No myTodo To Display
+              Todo List
             </a>
           </div>
         </div>
